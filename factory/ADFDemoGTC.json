@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoGTC",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c34a14d-56d6-4c5d-a4a6-4740f7e4c074",
+		"tenantId": "f80f89f5-99a9-46a2-b233-cd006a9387bf"
+	}
+}
